@@ -192,12 +192,16 @@
 // console.log(S);
 
 // begin 22
-var a = 10;
-var b = 12;
- a = b;
- b = a;
- console.log(a);
- console.log(b);
+// var a = 10;
+// var b = 12;
+// var c = a;
+// a = b;
+// b = c;
+
+//   console.log( a);
+
+
+//  console.log( b);
 
 
 
