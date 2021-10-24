@@ -197,12 +197,9 @@
 // var c = a;
 // a = b;
 // b = c;
-
 //   console.log( a);
-
-
 //  console.log( b);
-
+// bugun 24-oktabr
 
 
 
