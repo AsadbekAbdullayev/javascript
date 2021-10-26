@@ -11,6 +11,7 @@
 // begin 3
 // var a = 10;
 // var b = 5;
+
 // var S = a*b;
 // var P = 2*(a+b);
 // console.log(P);
@@ -201,6 +202,7 @@
 //  console.log( b);
 // bugun 24-oktabr
 // bugun 25-oktabr
+// bugun 26-oktabr
 
 
 
