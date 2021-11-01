@@ -96,6 +96,17 @@
 
 
 
+// function WP(){
+//     let a = `WelcomeToWebBrainAcademi`;
+//     let s = a.replace(/([A-Z])/g, ' $1').trim();
+//     console.log(s);
+    
+// }
+// WP();
+
+
+
+
 
 
 
