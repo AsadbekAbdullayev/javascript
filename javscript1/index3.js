@@ -104,6 +104,16 @@
 // }
 // WP();
 
+function aaa(){
+        let b = '';
+        let a = 'absabs';
+    for(i=0; i<a.length; i++){
+    console.log(a[i]);
+      
+    }
+    
+}
+aaa();
 
 
 
