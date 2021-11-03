@@ -104,16 +104,24 @@
 // }
 // WP();
 
-function aaa(){
-        let b = '';
-        let a = 'absabs';
-    for(i=0; i<a.length; i++){
-    console.log(a[i]);
-      
-    }
-    
-}
-aaa();
+// edabit #1 very hard
+// function aaa(){
+//     let x = 'abcabc';
+//         let b = x.split("");
+//         let c = [];
+//     for(i=0; i<b.length; i++){
+// if(c.indexOf(b[i]) === -1){
+//     c.push(b[i]);   
+// }  
+//     }
+//     let a = c.toString();
+//     let q = "";
+//     for(j=0; j<c.length; j++){
+//         q = q + c[j];
+//     }
+//     console.log(q);
+// }
+// aaa();
 
 
 
