@@ -123,6 +123,31 @@
 // }
 // aaa();
 
+// let a = [2, 132, 2, 3322222272];
+// for(i = 0; i<a.length;  i++){
+//     x=a[i];
+//     let y =x.toString();
+//     let z =y.split('');
+//     for(j=0; j<z.length; j++){
+        
+//         if(z[j] == 7){
+//         console.log('booom');    
+//         break;
+//         }else {
+//         console.log('7 mAVJUD EMAS');    
+
+//         }
+//     }
+// }
+
+
+
+
+
+
+
+
+
 
 
 
