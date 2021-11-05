@@ -91,3 +91,54 @@
 // console.log(ss)
 // }
 // reversee();
+
+
+
+
+// let sum = (ss)=>{
+//     let a = [9,3,6,4,5,1,8];
+// let b = [];
+// for(i=0;i<a.length;i++){
+//     for(j=0;j<a.length;j++){
+//         if(ss===a[i]+a[j]){
+//             b.push([a[i], a[j]])
+//         }
+//     }
+// }
+// console.log(b)
+// }
+// sum(6)
+
+
+
+let p = [10,1,2,3,4,5,6,7,8,9];
+let s = (p.length-1);
+let sum = 0;
+let summa = [];
+
+for(i=0;i<p.length;i++){
+    for(j=0;j<p.length;j++){
+     if(p[s-i] > p[j]){
+         sum =(sum + 1);    
+     } if(sum===s) {
+        
+        let pp = p.splice(s-i, 1);
+        let ppp = parseInt(pp);
+        summa.push(ppp);                      
+    }   }              
+     
+    
+    sum = 0;  
+    
+ }
+
+
+
+console.log(summa);
+console.log(p);
+
+ 
+
+
+    
+
