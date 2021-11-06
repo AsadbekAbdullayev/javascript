@@ -111,34 +111,34 @@
 
 
 
-let p = [10,1,2,3,4,5,6,7,8,9];
-let s = (p.length-1);
-let sum = 0;
-let summa = [];
 
-for(i=0;i<p.length;i++){
-    for(j=0;j<p.length;j++){
-     if(p[s-i] > p[j]){
-         sum =(sum + 1);    
-     } if(sum===s) {
-        
-        let pp = p.splice(s-i, 1);
-        let ppp = parseInt(pp);
-        summa.push(ppp);                      
-    }   }              
-     
-    
-    sum = 0;  
-    
- }
-
-
-
-console.log(summa);
-console.log(p);
-
+// let a = [3, 2, 1, 1, 5, 4],
+// c = [];
+// for (; a.length;)  { c.push(a.splice(a.indexOf(Math.min(...a)),1)[0])}
+// console.log(c)
  
 
+// function bubbleSort(array) {
+//   var done = false;
+//   while (!done) {
+//     done = true;
+//     for (var i = 1; i < array.length; i += 1) {
+//       if (array[i - 1] > array[i]) {
+//         done = false;
+//         var tmp = array[i - 1];
+//         array[i - 1] = array[i];
+//         array[i] = tmp;
+//       }
+//     }
+//   }
 
+//   return array;
+// }
+
+// var numbers = [12, 10, 15, 11, 14, 13, 16];
+// bubbleSort(numbers);
+// console.log(numbers);
     
-
+let a = [1,2,3,4,5,6,7,8];
+let x = Math.max(a);
+console.log(a)
