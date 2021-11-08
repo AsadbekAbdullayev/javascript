@@ -43,7 +43,7 @@ let obj = [
     //     console.log(obj)
     // }
    
-    // Ondelete(2);
+    // OnDelete(2);
     
 
 // let OnSort= (Value)=>{
@@ -58,5 +58,6 @@ let obj = [
 //         console.log(Newobj)
 //     }
 // OnSort('Asadbek')
+
 
     
