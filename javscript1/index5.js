@@ -127,6 +127,8 @@
 // console.log(s,'valueslari ')
 // console.log(d,'entreis kurinishi ')
 
+// 10-noabr
+
 
 
 
