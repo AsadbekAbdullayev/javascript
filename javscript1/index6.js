@@ -134,3 +134,20 @@ let user = [
 // console.log(a)
 // }
 // }
+
+
+// let str = "12345";
+// let part = str.slice(2,4);
+// console.log(part);
+
+// let str = "123456789";
+// let part1 = str.slice(2,4);
+// let part = str.substring(2,4);
+// let part2 = str.substr(2,4);
+// console.log(part1);
+// console.log(part);
+// console.log(part2);
+
+ 
+
+
