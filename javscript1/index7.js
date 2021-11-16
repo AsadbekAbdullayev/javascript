@@ -65,31 +65,35 @@
 // console.log('Finished');
 
 // })
-console.log('Started....');
-let users = 
-    {
-        id:1,
-        name:'Asadbek',
-        pw:123
-    }
+// console.log('Started....');
+// let users = 
+//     {
+//         id:1,
+//         name:'Asadbek',
+//         pw:123
+//     }
 
-const Facebook = (pw,username)=>{
-let user = new Promise((resolve, reject)=>{
-    setTimeout(()=>{
-        if(users.name === username && users.pw === pw){
-            resolve ('Welcome to Facebook')
+// const Facebook = (pw,username)=>{
+// let user = new Promise((resolve, reject)=>{
+//     setTimeout(()=>{
+//         if(users.name === username && users.pw === pw){
+//             resolve ('Welcome to Facebook')
 
-    }else{
-        reject('Errorrrr')
-    }        
+//     }else{
+//         reject('Errorrrr')
+//     }        
 
-    },1000)
-});
+//     },1000)
+// });
 
-user.then((res)=>console.log(res)).catch((err)=>console.log(err))
+// user.then((res)=>console.log(res)).catch((err)=>console.log(err))
 
-};
+// };
 
-Facebook(123,'Asadbek')
+// Facebook(123,'Asadbek')
+
+// let a = '**********'.length;
+// let b = '**********'.length;
+// console.log(a*b);
 
 
