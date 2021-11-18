@@ -96,4 +96,18 @@
 // let b = '**********'.length;
 // console.log(a*b);
 
+// let a = 'ASDASAASWEDFVFVF';
+// let noRepaet = ()=>{
+//     let b ='';
+//     let c =[];
+//     for(i=0;i<a.length;i++){
+//         if(b.search(a[i]) === -1){     
+//         c.push(a[i]) 
+        
+//         }
+//         b=c.join('')
+//     }
+// console.log(b);
+// }
+// noRepaet();
 
